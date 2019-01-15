@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">NaviGuide</string>
+    <string name="title_discover">Discover</string>
+    <string name="title_search">Search</string>
+    <string name="title_profile">Profile</string>
+    <string name="search">Search</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="password2">Retype Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="restaurantname">Restaurant Name</string>
+    <string name="restaurantrating">Rating</string>
+    <string name="address">Address</string>
+    <string name="reviews">Reviews</string>
+    <string name="writereview">Give out your opinion here!</string>
+    <string name="post">Post</string>
+    <string name="change">Change</string>
+    <string name="location">Location</string>
+    <string-array name="ratingEntries">
+        <item>Rate this Restaurant</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="locationEntries">
+        <item>Select your location</item>
+        <item>Taman Bunga Raya</item>
+        <item>Wangsa Maju</item>
+        <item>Genting Klang</item>
+        <item>Taman Melati</item>
+    </string-array>
+</resources>
